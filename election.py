@@ -8,7 +8,7 @@ NBC = 'https://www.youtube.com/watch?v=iwRA-dtub7Y&ab_channel=NBCNews'
 #ABC = 'https://www.youtube.com/watch?v=w_Ma8oQLmSM&ab_channel=ABCNews'
 TELE = 'https://www.youtube.com/watch?v=MqHm48qskRE&ab_channel=TheTelegraph'
 
-b,c = st.beta_columns((1,1,1))
+b,c = st.beta_columns((1,1))
 
 with b:
     st.title('NBC News')
